@@ -2,7 +2,7 @@
 <html>
     <head>
     </head>
-    <body>
+    <body style="background-color: #222222; color: #fff">
         <?php
         $chuoi=$_POST["chuoi1"];
         function ham_dao_nguoc_chuoi($str)
